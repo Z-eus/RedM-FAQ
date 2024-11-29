@@ -124,7 +124,10 @@ Apart from optimizing game settings and other hardware issues, you can try clear
 If you don't know how to clear your game cache, see point 6
 ```
 
-
+13. **RedM Rockstar Launcher - We couldn't sign you in aotumatically, please login manually using...** (You try to open RedM and Rockstar Launcher asking you to enter your rockstar account)
+```
+After entering the account information, press “Contact Support” on the verification code screen, then re-enter your account on the screen that opens.
+```
 
 > [!NOTE]
 > This document is open to updating and adding new information over time. Frequently asked questions, solutions and new information will be regularly incorporated into the document based on the needs of players and developers. The goal of the document is to quickly and effectively answer RedM related issues, guide players and provide a better gaming experience.
